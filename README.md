@@ -8,5 +8,5 @@ This is my first portofolio website, I made this website for study and I hope it
 * HTML (59,6%)
 * CSS (40,4%)
 
-**You can open my website via the link below, i hope you enjoy it**
+**You can open my website via the link below, i hope you enjoy it**  
 https://rioshollu.github.io/Portofolio/
